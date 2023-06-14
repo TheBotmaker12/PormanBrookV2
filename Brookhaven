@@ -55,3 +55,5 @@ local Tab = Window:CreateTab("Avatar", 4483362458)
 local Tab = Window:CreateTab("Hubs", 4483362458)
 
 local Label = Tab:CreateLabel("Soon!")
+
+local Tab = Window:CreateTab("Fun")
